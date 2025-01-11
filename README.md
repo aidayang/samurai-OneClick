@@ -14,6 +14,8 @@ samurai是一款强大的零样本视觉追踪应用，安装部署比较复杂�
 
 处理速度受视频尺寸影响，视频尺寸越大处理越慢。
 
+视频教程：[youtube](https://www.youtube.com/watch?v=_mvZmaC3TAc)
+
 软件常见问题说明：[https://nuowa.net/1607](https://nuowa.net/1607)
 
 ## SAMURAI整合包下载链接
